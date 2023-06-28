@@ -2,14 +2,14 @@
 
 ## SSC-RS: Elevate LiDAR Semantic Scene Completion with Representation Separation and BEV Fusion
 
-<!-- This repository is for SSC-RS introduced in the following paper. [[arxiv paper]]()
+This repository is for SSC-RS introduced in the following paper. [[arxiv paper]](https://arxiv.org/abs/2306.15349)
 
-If you find our work useful, please cite
+<!-- If you find our work useful, please cite
 
 ```
 
-``` -->
-
+```
+-->
 ## Preperation
 
 ### Prerequisites
